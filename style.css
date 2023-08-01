@@ -1,0 +1,102 @@
+.header{
+height: 100vh;
+background-color: #290c88;
+
+
+}
+.imagess{
+
+   width: 310px;
+    height: 235px;
+    border-top-right-radius:15px;
+     border-end-end-radius :15px;
+    
+}
+
+@media screen and (max-width: 480px) {
+  .imagess{
+    width: 100%;
+    height: 235px;
+}
+}
+
+.acb{
+  background-color: rgb(208, 229, 241);
+   font-size: 14px;
+
+}
+.abc{
+  background-color: rgb(217, 233, 241);
+   font-size: 14px;
+   text-align: center;
+}
+
+.busplan{
+  justify-content: center;  
+  align-items: center;
+  display: flex;
+
+}
+.joinB{
+   width: 80px;
+  border-radius:5px
+}
+
+
+
+
+.bi{
+
+  width: 30px;
+  height: 30px;
+
+}
+.Business{
+  color: blue;
+  
+
+
+
+}
+.firstone{
+  background-color: white; 
+   border-radius:10px;
+  border-radius:10px;
+}
+.secondone{
+
+
+  border-radius:10px;
+}
+
+.btn button{
+    height: 40px;
+    width: 200px;
+    padding-left: 10px;
+    background-color: blue;
+    
+}
+.avinash{
+    height: 40px !important;
+    background-color: rgb(111, 6, 133) !important;
+    width: 100px !important;
+  }
+.firstone{
+    background-color: white !important;
+    height: 40px !important;
+    width: 100px !important;
+  }
+.footz{
+    background-color: black;
+    color: white;
+  }
+  .batten{
+    height: 35px !important;
+    width: 100px !important;
+    float: right !important;
+  
+  }
+  .emaill{
+    float: right !important;
+    border-radius: 8px !important;
+  }
